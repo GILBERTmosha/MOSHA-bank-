@@ -1,0 +1,6 @@
+{
+  "name": "Mosha Foundation Bank",
+  "description": "Mfumo wa kisasa wa kusimamia madeni, ada, matumizi (Mama Ela, Ela Yangu, Ela ya Matumizi), kutuma risiti kwa WhatsApp/SMS/Email na ulinzi wa Passkey na Sign.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
